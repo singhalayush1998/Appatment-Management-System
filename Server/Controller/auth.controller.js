@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const UsersData = require('../model/userSchema');
+const UsersData = require('../model/user.model');
 
 
 router.get('/', (req, res) => {
@@ -18,21 +18,6 @@ router.post('/register', async (req, res) => {
   }
 
   try {
-    const isUsernameExist = await UsersData.findOne({ username: username });
-
-    if (isUsernameExist) {
-      return res
-        .status(422)
-        .json({ error: 'Registration failed, username already exists' });
-    }
-
-    const isEmailExist = await UsersData.findOne({ email: email });
-    if (isEmailExist) {
-      return res
-        .status(422)
-        .json({ error: 'Registration failed, Email already exists' });
-    }
-
     const newUser = new UsersData(req.body);
     await newUser.save();
 
@@ -49,9 +34,9 @@ router.post('/register', async (req, res) => {
 
 // user login
 router.post('/login', async (req, res) => {
-  const { email, username,  password } = req.body;
+  const { email, password } = req.body;
 
-  const user = await UsersData.findOne(email);
+  const user = await UsersData.findOne({"email":email});
   if (!user) {
     res.status(400).json({
       error:

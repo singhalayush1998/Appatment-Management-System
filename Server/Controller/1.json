@@ -1,0 +1,147 @@
+[
+    {
+        "type":"Owner",
+        "block":"A",
+        "flatnumber":"1",
+        "residents": ["60fbc034641dbc35f46a2c03","60fbc034641dbc35f46a2c04","60fbc034641dbc35f46a2c05","60fbc034641dbc35f46a2c07","60fbc034641dbc35f46a2c06"],
+        "pictures": "https://5.imimg.com/data5/WR/QC/MY-13018244/3-bhk-new-flat-with-lowest-rent-at-vesu-vip-road-2c-surat-500x500.jpg"
+    },
+    {
+        "type":"Tenant",
+        "block":"A",
+        "flatnumber":"2",
+        "residents": ["60fbc034641dbc35f46a2c08","60fbc034641dbc35f46a2c09","60fbc034641dbc35f46a2c0a","60fbc034641dbc35f46a2c0b"],
+        "pictures": "https://i.pinimg.com/236x/f8/8f/24/f88f24d24a780ce0308cbad89d3f5b37.jpg"
+    },
+    {
+        "type":"Tenant",
+        "block":"A",
+        "flatnumber":"3",
+        "residents": ["60fbc034641dbc35f46a2c0c","60fbc034641dbc35f46a2c0d","60fbc034641dbc35f46a2c0e","60fbc034641dbc35f46a2c0f","60fbc034641dbc35f46a2c10"],
+        "pictures": "https://i.pinimg.com/564x/f7/89/16/f7891638dbc56749dc0d3472b2210108.jpg"
+    },
+    
+    {
+        "type":"Tenant",
+        "block":"A",
+        "flatnumber":"4",
+        "residents": ["60fbc034641dbc35f46a2c11","60fbc034641dbc35f46a2c12","60fbc034641dbc35f46a2c13"],
+        "pictures": "https://i.pinimg.com/236x/cd/17/fb/cd17fba0f83c66e79b40c68d563a452d.jpg"
+    }, {
+        "type":"Tenant",
+        "block":"B",
+        "flatnumber":"5",
+        "residents": ["60fbc034641dbc35f46a2c14","60fbc034641dbc35f46a2c15","60fbc034641dbc35f46a2c16","60fbc034641dbc35f46a2c1a"],
+        "pictures": "https://i.pinimg.com/564x/d5/f7/8c/d5f78c5021d58d45e884cd30648b779c.jpg"
+    },
+    
+    {
+        "type":"Tenant",
+        "block":"B",
+        "flatnumber":"6",
+        "residents": ["60fbc034641dbc35f46a2c17","60fbc034641dbc35f46a2c18","60fbc034641dbc35f46a2c19","60fbc034641dbc35f46a2c1b"],
+        "pictures": "https://i.pinimg.com/236x/4c/59/09/4c59091b8ff6c3c68a90b892d2eec38a.jpg"
+    },
+
+
+
+    {
+        "type":"Owner",
+        "block":"B",
+        "flatnumber":"7",
+        "residents": ["60fbc034641dbc35f46a2c1c","60fbc034641dbc35f46a2c1d","60fbc034641dbc35f46a2c1e","60fbc034641dbc35f46a2c1f"],
+        "pictures": "https://i.pinimg.com/236x/7e/16/83/7e168343be1e5ce7a09216d8440b82c4.jpg"
+    }, {
+        "type":"Tenant",
+        "block":"B",
+        "flatnumber":"8",
+        "residents": ["60fbc034641dbc35f46a2c20","60fbc034641dbc35f46a2c21","60fbc034641dbc35f46a2c22","60fbc034641dbc35f46a2c24"],
+        "pictures": "https://i.pinimg.com/236x/dc/e6/60/dce6601d8097062407700b613a209128.jpg"
+    }, {
+        "type":"Tenant",
+        "block":"C",
+        "flatnumber":"9",
+        "residents": ["60fbc034641dbc35f46a2c23","60fbc034641dbc35f46a2c25","60fbc034641dbc35f46a2c26","60fbc034641dbc35f46a2c27"],
+        "pictures": "https://i.pinimg.com/236x/53/47/2e/53472edbd31e8404fdba90b3cefc6bad.jpg"
+    },
+
+
+
+
+    {
+        "type":"Owner",
+        "block":"C",
+        "flatnumber":"10",
+        "residents": ["60fbc034641dbc35f46a2c28","60fbc034641dbc35f46a2c29","60fbc034641dbc35f46a2c2a","60fbc034641dbc35f46a2c2b"],
+        "pictures": "https://i.pinimg.com/236x/33/52/8e/33528e544f46fa55672caeb2bcc7c111.jpg"
+    },{
+        "type":"Tenant",
+        "block":"C",
+        "flatnumber":"11",
+        "residents": ["60fbc034641dbc35f46a2c2c","60fbc034641dbc35f46a2c2d","60fbc034641dbc35f46a2c2e","60fbc034641dbc35f46a2c2f"],
+        "pictures": "https://i.pinimg.com/236x/3b/fc/fb/3bfcfb4f2293acf5095bedb302d96479.jpg"
+    },{
+        "type":"Owner",
+        "block":"C",
+        "flatnumber":"12",
+        "residents": ["60fbc034641dbc35f46a2c30","60fbc034641dbc35f46a2c31","60fbc034641dbc35f46a2c32","60fbc034641dbc35f46a2c33"],
+        "pictures": "https://i.pinimg.com/236x/b2/8b/99/b28b99eee62babe90f0331a00c7e1d39.jpg"
+    },
+    {
+        "type":"Tenant",
+        "block":"D",
+        "flatnumber":"13",
+        "residents": ["60fbc034641dbc35f46a2c34","60fbc034641dbc35f46a2c35","60fbc034641dbc35f46a2c36","60fbc034641dbc35f46a2c37"],
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyf4elR8qHaV7gJJn3Z-LElCI0is1tOjmoA&usqp=CAU"
+    },{
+        "type":"Owner",
+        "block":"D",
+        "flatnumber":"14",
+        "residents": ["60fbc034641dbc35f46a2c38","60fbc034641dbc35f46a2c39","60fbc034641dbc35f46a2c3a"],
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRisvhfh4TlVhEwdr8r8yzZHzKNBO2PDyOFnA&usqp=CAU"
+    },
+   
+    {
+        "type":"Tenant",
+        "block":"D",
+        "flatnumber":"15",
+        "residents": ["60fbc034641dbc35f46a2c3b","60fbc034641dbc35f46a2c3c","60fbc034641dbc35f46a2c3d","60fbc034641dbc35f46a2c3e"],
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgp2lDYxI7d_zZHHvF6EYsyR6ZBPFyHhjOGg&usqp=CAU"
+        },
+    {
+        "type":"Tenant",
+        "block":"D",
+        "flatnumber":"16",
+        "residents": ["60fbc034641dbc35f46a2c3f","60fbc034641dbc35f46a2c40","60fbc034641dbc35f46a2c41","60fbc034641dbc35f46a2c42"],
+        "pictures": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtj1YW_4876k4Wqp76GOCGBC5-6w0M6yT0sQ&usqp=CAU"
+    },
+
+
+    {
+        "type":"Tenant",
+        "block":"E",
+        "flatnumber":"17",
+        "residents": [" 60fbc034641dbc35f46a2c43","60fbc034641dbc35f46a2c44","60fbc034641dbc35f46a2c45","60fbc034641dbc35f46a2c46"],
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyf4elR8qHaV7gJJn3Z-LElCI0is1tOjmoA&usqp=CAU"
+    },{
+        "type":"Owner",
+        "block":"E",
+        "flatnumber":"18",
+        "residents": ["60fbc034641dbc35f46a2c47","60fbc034641dbc35f46a2c48","60fbc034641dbc35f46a2c49"],
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRisvhfh4TlVhEwdr8r8yzZHzKNBO2PDyOFnA&usqp=CAU"
+    },
+    {
+        "type":"Owner",
+        "block":"E",
+        "flatnumber":"19",
+        "residents": ["60fbc034641dbc35f46a2c4a","60fbc034641dbc35f46a2c4b","60fbc034641dbc35f46a2c4c","60fbc034641dbc35f46a2c4e"],
+        "pictures": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgp2lDYxI7d_zZHHvF6EYsyR6ZBPFyHhjOGg&usqp=CAU"
+    },{
+        "type":"Tenant",
+        "block":"E",
+        "flatnumber":"20",
+        "residents": ["60fbc034641dbc35f46a2c4f","60fbc034641dbc35f46a2c50","60fbc034641dbc35f46a2c51","60fbc034641dbc35f46a2c52"],
+        "pictures": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtj1YW_4876k4Wqp76GOCGBC5-6w0M6yT0sQ&usqp=CAU"
+    }
+
+]
